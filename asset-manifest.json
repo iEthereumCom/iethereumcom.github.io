@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.9f280494.chunk.css",
-    "main.js": "/static/js/main.f49f74ec.chunk.js",
-    "main.js.map": "/static/js/main.f49f74ec.chunk.js.map",
+    "main.js": "/static/js/main.18a37c9b.chunk.js",
+    "main.js.map": "/static/js/main.18a37c9b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7817727.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7817727.js.map",
-    "static/js/2.02a03440.chunk.js": "/static/js/2.02a03440.chunk.js",
-    "static/js/2.02a03440.chunk.js.map": "/static/js/2.02a03440.chunk.js.map",
+    "static/js/2.fc90b710.chunk.js": "/static/js/2.fc90b710.chunk.js",
+    "static/js/2.fc90b710.chunk.js.map": "/static/js/2.fc90b710.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.9f280494.chunk.css.map": "/static/css/main.9f280494.chunk.css.map",
-    "static/js/2.02a03440.chunk.js.LICENSE.txt": "/static/js/2.02a03440.chunk.js.LICENSE.txt",
-    "static/media/iEthereum.475d9fb9.png": "/static/media/iEthereum.475d9fb9.png",
+    "static/js/2.fc90b710.chunk.js.LICENSE.txt": "/static/js/2.fc90b710.chunk.js.LICENSE.txt",
+    "static/media/iethereum-logo.02f805e4.svg": "/static/media/iethereum-logo.02f805e4.svg",
     "static/media/landing-bg.jpg": "/static/media/landing-bg.64d7ac30.jpg",
     "static/media/profile-bg.jpg": "/static/media/profile-bg.8129069f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c7817727.js",
-    "static/js/2.02a03440.chunk.js",
+    "static/js/2.fc90b710.chunk.js",
     "static/css/main.9f280494.chunk.css",
-    "static/js/main.f49f74ec.chunk.js"
+    "static/js/main.18a37c9b.chunk.js"
   ]
 }
